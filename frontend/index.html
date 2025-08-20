@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OpenAI Web App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>OpenAI Task</h1>
+
+    <label for="mode">Mode</label>
+    <select id="mode">
+      <option value="summarize">Summarize</option>
+      <option value="rephrase">Rephrase</option>
+      <option value="json">Extract JSON</option>
+      <option value="classify">Classify</option>
+    </select>
+
+    <div id="tone-container" style="display:none;">
+      <label for="tone">Tone</label>
+      <select id="tone">
+        <option value="casual">Casual</option>
+        <option value="professional">Professional</option>
+        <option value="friendly">Friendly</option>
+      </select>
+    </div>
+
+    <label for="inputText">Text</label>
+    <textarea id="inputText" rows="8" placeholder="Paste your text here (1–5000 chars)..."></textarea>
+
+    <button id="runBtn">Run</button>
+
+    <div id="result-panel" class="result-panel">
+      <pre id="result"></pre>
+      <button id="copyBtn">Copy Result</button>
+    </div>
+
+    <div id="usage" class="usage"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

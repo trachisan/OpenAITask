@@ -1,0 +1,68 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Logs
+*.log
+logs/
+
+# Transient files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Publish output
+*.PublishSettings
+*.pubxml
+*.pubxml.user
+Properties/PublishProfiles/
+
+# Azure stuff
+*.azurePubxml
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# Coverage results
+*.coverage
+*.coveragexml
+
+# Entity Framework Migrations
+Migrations/
+
+# Local environment files
+appsettings.Development.json
+appsettings.json
+.env
+
+# Node modules (if using frontend with ASP.NET)
+node_modules/
+
+# Others
+wwwroot/lib/
