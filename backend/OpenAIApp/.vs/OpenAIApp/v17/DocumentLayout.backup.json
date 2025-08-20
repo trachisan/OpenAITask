@@ -3,28 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD40BAE2-75D3-4317-AA74-D7D14D03C27A}|..\\Tests\\Tests.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD40BAE2-75D3-4317-AA74-D7D14D03C27A}|..\\Tests\\Tests.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\controllers\\responseoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:controllers\\responseoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:service\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\controllers\\requestinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:controllers\\requestinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\prompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +27,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\controllers\\requestinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:controllers\\requestinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|c:\\users\\andrew\\desktop\\openaitask\\backend\\openaiapp\\controllers\\responseoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B8CBC-C581-42F4-B312-8B0B15B02AB0}|OpenAIApp.csproj|solutionrelative:controllers\\responseoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,50 +48,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ResponseOutput.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\ResponseOutput.cs",
-              "RelativeDocumentMoniker": "Controllers\\ResponseOutput.cs",
-              "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\ResponseOutput.cs",
-              "RelativeToolTip": "Controllers\\ResponseOutput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:07:13.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T12:29:29.177Z",
+              "WhenOpened": "2025-08-20T13:29:00.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OpenAiService.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Service\\OpenAiService.cs",
-              "RelativeDocumentMoniker": "Service\\OpenAiService.cs",
-              "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Service\\OpenAiService.cs",
-              "RelativeToolTip": "Service\\OpenAiService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Tests",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\Tests\\Tests.csproj",
+              "RelativeToolTip": "..\\Tests\\Tests.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T13:03:56.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGMAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:25:49.512Z",
+              "WhenOpened": "2025-08-20T13:03:15.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RequestInput.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\RequestInput.cs",
               "RelativeDocumentMoniker": "Controllers\\RequestInput.cs",
@@ -98,46 +104,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OpenAiController.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\OpenAiController.cs",
               "RelativeDocumentMoniker": "Controllers\\OpenAiController.cs",
               "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\OpenAiController.cs",
               "RelativeToolTip": "Controllers\\OpenAiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T09:40:13.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-19T12:29:49.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "OpenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Service\\OpenAiService.cs",
+              "RelativeDocumentMoniker": "Service\\OpenAiService.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Service\\OpenAiService.cs",
+              "RelativeToolTip": "Service\\OpenAiService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:25:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T09:39:06.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T09:39:06.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "ResponseOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\ResponseOutput.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResponseOutput.cs",
+              "ToolTip": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Controllers\\ResponseOutput.cs",
+              "RelativeToolTip": "Controllers\\ResponseOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:07:13.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Prompts.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\Desktop\\openAITask\\backend\\OpenAIApp\\Prompts.cs",
               "RelativeDocumentMoniker": "Prompts.cs",
