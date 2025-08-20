@@ -1,0 +1,27 @@
+Summary:
+In a quiet village by the sea, a young girl named Lila discovered an old, abandoned lighthouse. 
+Every evening, she would climb to the top and watch the waves crash against the rocks. 
+One night, she noticed a faint light flickering from the horizon. 
+Curious, she rowed out and found a tiny boat carrying a mysterious, glowing map.
+The map led her on a secret journey across the ocean, through hidden coves and sparkling islands, 
+revealing treasures of knowledge and courage. 
+Along the way, Lila realized the true treasure wasn’t gold, but the friendships she formed and the bravery she found within herself. 
+By the time she returned home, the villagers noticed that the once-abandoned lighthouse now shone brightly, guiding others as it once guided her.
+
+Classify:
+Every evening, she would climb to the top and watch the waves crash against the rocks.
+
+The true treasure wasn’t gold, but the friendships she formed and the bravery she found within herself
+
+She noticed a faint light flickering from the horizon… a tiny boat carrying a mysterious, glowing map
+
+Extract-Json:
+Lila felt proud after completing the secret journey and making new friends along the way.
+
+Every evening, she would climb to the top of the lighthouse and watch the waves crash against the rocks.
+
+
+Rephrase:
+Please submit your report by Friday.
+
+We will have a meeting tomorrow at 10 AM
